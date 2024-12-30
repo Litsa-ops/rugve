@@ -1,0 +1,499 @@
+
+.hover-button {
+    background-color: #f8f2f2; 
+    color: #c5b5aa;            
+    border: none;            
+    padding: 10px 20px;      
+    position:absolute;
+    top: 120;
+    left: 984;
+    font-size: 20px;         
+    border-radius: 5px;      
+    text-decoration: none;
+    cursor: pointer;         
+    transition: background-color 0.3s ease, transform 0.3s ease; 
+}
+
+
+
+.hover-button:hover {
+    background-color: #449cac; 
+    transform: scale(1.1);     
+}
+
+
+.hover-button2 {
+    background-color: #f8f2f2; 
+    color: #c5b5aa;            
+    border: none;            
+    padding: 10px 20px;      
+    position: absolute;
+    top: 200;
+    left: 984;
+    font-size: 20px;         
+    border-radius: 5px;      
+    text-decoration: none;
+    cursor: pointer;         
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+
+/* Hover effect */
+.hover-button2:hover {
+    background-color: #449cac; 
+    transform: scale(1.1);     
+}
+
+
+
+.hover-button3 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #c5b5aa;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 275;
+    left: 970;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button3:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+
+
+.hover-button4 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #c5b5aa;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 350;
+    left: 960;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button4:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+
+
+.hover-button5 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #c5b5aa;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 423;
+    left: 976;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button5:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+.hover-button6 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 62px;
+    left: 226px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button6:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+.hover-button7 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 145px;
+    left: 226px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button7:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+.hover-button8 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 234px;
+    left: 226px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button8:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+
+.hover-button9 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 322px;
+    left: 226px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button9:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+
+.hover-button10 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 402px;
+    left: 226px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button10:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+.hover-button11 {
+    background-color: #f8f2f2; /* Blue background */
+    color: #d1966a;            /* White text */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for size */
+    position: absolute;
+    top: 483px;
+    left: 210px;
+    font-size: 20px;         /* Text size */
+    border-radius: 5px;      /* Rounded corners */
+    text-decoration: none;
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hover effect */
+.hover-button11:hover {
+    background-color: #449cac; /* Green background on hover */
+    transform: scale(1.1);     /* Slightly enlarge the button */
+}
+
+
+
+/* General styling for the footer */
+.site-footer {
+    background-color: #e4eff1; /* Dark gray background */
+    color: black;           /* White text */
+    text-align: center;     /* Center the text */
+    padding: 85px;          /* Space inside the footer */
+    position: absolute;     /* Default positioning */
+    top: 650;
+    bottom: 0;              /* Stick to the bottom */
+    width: 88%;            /* Full width */
+}
+
+/* Styling for footer links */
+.footer-links {
+    list-style: none;       /* Remove bullets from list */
+    padding: 0;             /* Remove default padding */
+    margin: 10px 0 0;       /* Add spacing around the links */
+    display: inline-flex;   /* Align links horizontally */
+    gap: 15px;              /* Add space between links */
+}
+
+.footer-links a {
+    color: #4e5f3f;         /* Light blue links */
+    text-decoration: none;  /* Remove underline */
+}
+
+.footer-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.social-logo {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 3px;
+    transition: transform 0.3s ease;
+}
+
+.social-logo:hover {
+    transform: scale(1.2);
+}
+
+.social-logo2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 805px;
+    bottom: 3px;
+    transition: transform 0.3s ease;
+}
+
+.social-logo2:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+/* Main button to open the menu */
+.menu-toggle {
+  background-color: #f8f2f2;
+  color: #d0b090;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  position: absolute;
+  top: 40px;
+  left: 15px;
+  z-index: 1000;
+}
+
+.menu-toggle2{
+  background-color: #223d3c;
+  color: #d0b090;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  position: absolute;
+  top: 40px;
+  left: 15px;
+  z-index: 1000;
+}
+
+
+/* Sidebar menu styles */
+.side-menu {
+  height: 100%; /* Full height */
+  width: 0; /* Initially hidden */
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #f8f2f2;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.3s; /* Smooth slide-in effect */
+  padding-top: 60px; /* Space for top padding */
+}
+
+/* Menu links */
+.side-menu a {
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #bca886;
+  display: block;
+  transition: 0.3s;
+}
+
+.side-menu a:hover {
+  background-color: #53a188;
+}
+
+/* Close button inside the menu */
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+
+/* Add border to the entire page */
+body {
+    margin: 0px; /* Remove default margin */
+    padding: 0px; /* Remove default padding */
+    
+}
+
+.bordered-page {
+    border: 10px solid #c26d2d; /* Border width, style, and color */
+    padding: 0px; /* Add spacing inside the border */
+    margin: 4px; /* Add spacing outside the border */
+    top: 0px;
+    width: calc(100% - 0px); /* Ensure it fits the screen width with padding/margin considered */
+    border-radius: 15px; /* Controls the roundness */
+    box-sizing: border-box; /* Include padding and border in element's total width/height */
+    position: absolute;
+    height: 650px;
+    width: 1330px;
+    left: 0px;
+}
+
+.bordered-page2 {
+    border: 10px solid #c26d2d; /* Border width, style, and color */
+    padding: 0px; /* Add spacing inside the border */
+    margin: 4px; /* Add spacing outside the border */
+    top: 0px;
+    width: calc(100% - 0px); /* Ensure it fits the screen width with padding/margin considered */
+    border-radius: 15px; /* Controls the roundness */
+    box-sizing: border-box; /* Include padding and border in element's total width/height */
+    position: absolute;
+    height: 1910px;
+    width: 1330px;
+    left: 0px;
+}
+
+
+
+/* General styling for the footer */
+.site-footer2{
+    background-color: #e4eff1; /* Dark gray background */
+    color: black;           /* White text */
+    text-align: center;     /* Center the text */
+    padding: 85px;          /* Space inside the footer */
+    position: absolute;     /* Default positioning */
+    top: 1915;
+    bottom: 0;              /* Stick to the bottom */
+    width: 88%;            /* Full width */
+}
+
+/* Styling for footer links */
+.footer2-links {
+    list-style: none;       /* Remove bullets from list */
+    padding: 0;             /* Remove default padding */
+    margin: 10px 0 0;       /* Add spacing around the links */
+    display: inline-flex;   /* Align links horizontally */
+    gap: 15px;              /* Add space between links */
+}
+
+.footer2-links a {
+    color: #4e5f3f;         /* Light blue links */
+    text-decoration: none;  /* Remove underline */
+}
+
+.footer2-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.slideshow-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    
+    height: 650px;
+    overflow: hidden;
+    }
+
+iframe {
+    width: 1366px;
+    height: 650px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+button.prev {
+    left: 17px;
+}
+
+button.next {
+    right: 40px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
